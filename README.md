@@ -41,7 +41,7 @@
 
 ### 🐍 Movimentos
 
-![snake gif](https://github.com/Camilaisperling/Camilaisperling/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/Camilaisperling/Camilaisperling/output/github-contribution-grid-snake.svg" />
 
 ---
 
