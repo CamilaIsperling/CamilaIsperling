@@ -10,7 +10,7 @@
 ### 🧠 Sobre mim
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
-- 👨‍💻 Dev Júnior buscando crescer e codar cada vez mais
+- 💻  Dev Júnior buscando crescer e codar cada vez mais
 - 🌍 Curioso sobre back-end, front-end, bancos de dados e automação
 - 🎯 Foco em evoluir todos os dias (nem que seja 1 linha de código por vez)
 
